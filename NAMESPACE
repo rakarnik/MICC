@@ -1,0 +1,6 @@
+importFrom(stats, runif, uniroot, plogis, optim)
+importFrom(VGAM, zeta)
+export("InputMatrixFormatted")
+export("MICCMainLearn")
+export("FDRcompute")
+export("MICCoutput")

@@ -1,0 +1,12 @@
+Package: MICC
+Type: Package
+Title: Model based Interaction Calling from ChIA-PET data
+Version: 1.0
+Date: 2015-03-18
+Author: Chao He
+Maintainer: Chao He <hechaobnu@gmail.com>
+Description: MICC is a R package to deal with ChIA-PET and call significant interactions
+Depends: R (>= 2.10)
+Imports: stats, VGAM
+License: LGPL (>=2)
+Packaged: 2015-04-21 01:22:16 UTC; che
